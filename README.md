@@ -1,8 +1,7 @@
 ﻿# Semantic-segmentation-of-aerial-satellite-imagery-using-U-net
  
  # step 1 : create an conda env 
- >> conda create --name TF-gpu
- >> conda activate TF-gpu
+ >> conda create --name TF-gpu then conda activate TF-gpu
  
  
  # step 2 : run requairment.tx 
