@@ -1,0 +1,6 @@
+opencv-python 
+keras
+tensorflow-gpu
+patchify
+segmentation-models
+scikit-learn
